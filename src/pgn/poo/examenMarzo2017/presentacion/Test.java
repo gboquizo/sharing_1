@@ -16,7 +16,8 @@ import pgn.poo.utiles.Teclado;
 /**
  * Clase test para la comunicacion con el usuario
  * @author Guillermo
- *
+ * @author Javier Ponferrada López
+ * @version 2.0
  */
 public class Test {
 
